@@ -125,7 +125,9 @@ Too much code to show, but
 
 I made a basic repo that you can use as a starter:
 
+[v8-demo](https://github.com/arduano/v8-demo)
 
+Remind me to send this in Discord too
 
 ---
 
